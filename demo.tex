@@ -30,10 +30,16 @@
 \usefonttheme{professionalfonts}
 \usepackage{natbib}
 \usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	citecolor=black
+}
 
 %----------
 
-%
+\titlegraphic{\includegraphics[height=1.5cm]{hzau-logo.eps}}
+\setbeamertemplate{background}{\includegraphics[width=12.8cm]{background.jpg}}
 
 %----------
 
@@ -52,14 +58,12 @@
 
 %----------
 
-\AtBeginSection[]{
-	\begin{frame}
-		\vfill
-		\centering
-		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
-			\usebeamerfont{title}\insertsectionhead\par%
-		\end{beamercolorbox}
-		\vfill
+\AtBeginSection[]
+{
+	\begin{frame}{}
+		\transfade
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide]
+		\addtocounter{framenumber}{0}
 	\end{frame}
 }
 
@@ -77,26 +81,45 @@
 	
 	\section{引言}
 	\begin{frame}{引言}
+		\begin{itemize}
+			\item 1
+			\item 2
+		\end{itemize}
 	\end{frame}
 
 	\section{文献回顾与理论假说}
 	\begin{frame}{文献回顾与理论假说}
+		内容...
 	\end{frame}
 	
 	\section{数据来源与统计学特征}
 	\begin{frame}{数据来源}
+		内容...
 	\end{frame}
 	\begin{frame}{统计学特征}
+		内容...
 	\end{frame}
 
 	\section{变量选取与模型设定}
 	\begin{frame}{}
 		内容...
 	\end{frame}
+
+	\section{计量结果与实证分析}
+	\begin{frame}{}
+		内容...
+	\end{frame}
+
+	\section{主要结论与政策含义}
+	\begin{frame}{}
+		内容...
+	\end{frame}
 	
 	\section*{致谢}  
 	\begin{frame}
-		\textcolor{myNewColorA}{\Huge{\centerline{请老师批评指正!}}}
+		\begin{center}
+			\textcolor{myNewColorA}{\huge {谢谢!\\ \quad \\ 请老师批评指正！}}
+		\end{center}
 	\end{frame}
 	
 \end{document}

@@ -34,11 +34,25 @@
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\beamer@sectionpages {10}{11}}
 \headcommand {\beamer@subsectionpages {10}{11}}
-\headcommand {\sectionentry {5}{致谢}{12}{致谢}{0}}
+\headcommand {\sectionentry {5}{计量结果与实证分析}{12}{计量结果与实证分析}{0}}
 \headcommand {\slideentry {5}{0}{1}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@partpages {1}{12}}
-\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@sectionpages {12}{12}}
-\headcommand {\beamer@documentpages {12}}
-\headcommand {\gdef \inserttotalframenumber {12}}
+\headcommand {\slideentry {5}{0}{2}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {12}{13}}
+\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\sectionentry {6}{主要结论与政策含义}{14}{主要结论与政策含义}{0}}
+\headcommand {\slideentry {6}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {6}{0}{2}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {14}{15}}
+\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\sectionentry {7}{致谢}{16}{致谢}{0}}
+\headcommand {\slideentry {7}{0}{1}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@partpages {1}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\beamer@sectionpages {16}{16}}
+\headcommand {\beamer@documentpages {16}}
+\headcommand {\gdef \inserttotalframenumber {16}}
