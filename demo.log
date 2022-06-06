@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.16)  3 JUN 2022 10:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.16)  3 JUN 2022 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,70 +947,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-)
-
-Package fontspec Info: Font family 'PalatinoLinotype(0)' created for font
-(fontspec)             'Palatino Linotype' with options [Ligatures=TeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Palatino
-(fontspec)             Linotype/OT:script=latn;language=dflt;mapping=tex-text;"
-
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Palatino
-(fontspec)             Linotype/OT:script=latn;language=dflt;+smcp;mapping=tex-
-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Palatino
-(fontspec)             Linotype/B/OT:script=latn;language=dflt;mapping=tex-text
-;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"Palatino
-(fontspec)             Linotype/B/OT:script=latn;language=dflt;+smcp;mapping=te
-x-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Palatino
-(fontspec)             Linotype/I/OT:script=latn;language=dflt;mapping=tex-text
-;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"Palatino
-(fontspec)             Linotype/I/OT:script=latn;language=dflt;+smcp;mapping=te
-x-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Palatino
-(fontspec)             Linotype/BI/OT:script=latn;language=dflt;mapping=tex-tex
-t;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"Palatino
-(fontspec)             Linotype/BI/OT:script=latn;language=dflt;+smcp;mapping=t
-ex-text;"
-
-
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
-
-
-Package fontspec Info: Could not resolve font "STKaiti/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STKaiti/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "STKaiti/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Font family 'STKaiti(0)' created for font 'STKaiti'
-(fontspec)             with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"STKaiti/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-(d:/Applications/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+) (d:/Applications/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
 
 (d:/Applications/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
@@ -1058,7 +995,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count370
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
 (fontspec)             probably doesn't exist).
@@ -1089,26 +1026,26 @@ Package fontspec Info: Font family 'MicrosoftYaHei(0)' created for font
 (./demo.aux)
 \openout1 = `demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1144,7 +1081,7 @@ LaTeX Font Info:    ... okay on input line 72.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 72.
+Package hyperref Info: Link coloring ON on input line 70.
 (d:/Applications/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1157,9 +1094,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count371
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
  (./demo.out) (./demo.out)
 \@outlinefile=\write5
 \openout5 = `demo.out'.
@@ -1200,56 +1137,56 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 72.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 72.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 72.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 72.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 72.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 72.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 72.
-LaTeX Font Info:    Redeclaring math accent \check on input line 72.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 72.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 72.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 72.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 70.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 70.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 70.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 70.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 70.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 70.
+LaTeX Font Info:    Redeclaring math accent \check on input line 70.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 70.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 72.
+(Font)              `operators' in the math version `normal' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/put/m/n on input line 72.
+(Font)                  OT1/cmr/m/n --> TU/put/m/n on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 72.
+(Font)              `operators' in the math version `bold' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/put/m/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> TU/put/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/put/m/n --> TU/put/m/n on input line 72.
+(Font)                  TU/put/m/n --> TU/put/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/put/m/it on input line 72.
+(Font)                  OT1/cmr/m/it --> TU/put/m/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/put/b/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> TU/put/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 72.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/put/m/n --> TU/put/b/n on input line 72.
+(Font)                  TU/put/m/n --> TU/put/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/put/b/it on input line 72.
+(Font)                  OT1/cmr/bx/it --> TU/put/b/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 72.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 70.
  (./demo.nav)
 
 Package fontspec Info: Could not resolve font "KaiTi/BI" (it probably doesn't
@@ -1374,11 +1311,11 @@ Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: E6D51C5AABC9C85B437E386912F32397;701.
  ) 
 Here is how much of TeX's memory you used:
- 28206 strings out of 476179
- 622004 string characters out of 5807339
- 926007 words of memory out of 5000000
- 48327 multiletter control sequences out of 15000+600000
- 471653 words of font info for 80 fonts, out of 8000000 for 9000
+ 28144 strings out of 476179
+ 619796 string characters out of 5807339
+ 925418 words of memory out of 5000000
+ 48289 multiletter control sequences out of 15000+600000
+ 471541 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,15n,122p,434b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
